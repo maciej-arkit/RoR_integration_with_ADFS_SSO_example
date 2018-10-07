@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @booking_record.name %>
+</p>
+
+<p>
+  <strong>Description:</strong>
+  <%= @booking_record.description %>
+</p>
+
+<%= link_to 'Edit', edit_booking_record_path(@booking_record) %> |
+<%= link_to 'Back', booking_records_path %>

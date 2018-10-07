@@ -1,0 +1,2 @@
+class BookingRecord < ApplicationRecord
+end
