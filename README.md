@@ -1,24 +1,11 @@
-# README
+### How to integrate Ruby on Rails application with Microsoft AD FS Single Sign On
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an example application, showing how to integrate Ruby on Rails 
+with Microsoft AD FD Single Sign On using following libraries:
+* Devise
+* OmniAuth
 
-Things you may want to cover:
+This application is part of the guide **"How to integrate Ruby on Rails application with Microsoft AD FS Single Sign On"**
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
